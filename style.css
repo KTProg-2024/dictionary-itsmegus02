@@ -56,3 +56,18 @@
     color: white;
     background-color: #2D5F7C;
   }
+
+  .bolded {
+    font-weight: bold;
+  }
+
+  .home {
+    border-radius: 10px;
+    outline: none;
+    border: none;
+    cursor: pointer;
+    position: absolute;
+    padding: 5px;
+    top: 30px;
+    right: 30px;
+  }
